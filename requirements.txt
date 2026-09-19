@@ -1,0 +1,11 @@
+faster-whisper==1.0.3
+requests
+sounddevice==0.4.7
+numpy==1.26.4
+pynput==1.7.7
+keyboard==0.13.5
+pystray==0.19.5
+Pillow==10.4.0
+anthropic>=1.7.0
+google-genai>=0.8.0
+pyinstaller==6.11.1
