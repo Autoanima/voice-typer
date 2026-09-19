@@ -57,3 +57,8 @@ build.bat
 - 這不是嚴格意義的「輸入法」（不會出現在 Windows 語言列），而是全域熱鍵 + 自動打字，效果類似但實作簡單很多。
 - 若目標視窗是以系統管理員權限執行的程式，全域熱鍵可能偵測不到，需要以系統管理員身分執行 VoiceTyper。
 - 需要麥克風權限（Windows 設定 → 隱私權 → 麥克風）。
+
+
+之後不管是這台電腦還是任何其他電腦，只要：
+git clone https://github.com/Autoanima/voice-typer.git
+把這行丟給AI，AI就能直接接手繼續改（新開一個 Claude Code session 在那個資料夾裡工作即可）。
